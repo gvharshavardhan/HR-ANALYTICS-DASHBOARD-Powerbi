@@ -1,88 +1,73 @@
-📊 HR Analytics KPI Dashboard
-📌 Overview
-The HR Analytics KPI Dashboard is an interactive analytics tool that provides a comprehensive view of key workforce metrics and trends.
-It is designed to help HR departments make data-driven decisions by monitoring employee count, attrition, demographics, and job satisfaction.
+📊 HR ANALYTICS KPI DASHBOARD
+📌 OVERVIEW
+The HR Analytics KPI Dashboard is an interactive analytics tool providing a comprehensive view of workforce metrics and trends.
+It helps HR departments make data-driven decisions by tracking employee count, attrition, demographics, and job satisfaction.
 
-This dashboard was built using Power BI and powered by data from HR Data.xlsx.
+Built using Power BI, powered by data from HR Data.xlsx.
 
- Problem Statement
-HR teams often lack clear, centralized Key Performance Indicators (KPIs) to track and analyze workforce health.
+🛑 PROBLEM STATEMENT
+Many HR teams lack centralized KPIs to monitor workforce health.
 This project addresses the need for:
 
-Accurate tracking of employee headcount and attrition.
+✅ Accurate employee headcount & attrition tracking
 
-Measuring attrition rates against industry benchmarks.
+✅ Measuring attrition rates vs. industry benchmarks
 
-Understanding workforce demographics by age, gender, and education.
+✅ Understanding workforce demographics (age, gender, education)
 
-Identifying job satisfaction trends and areas of improvement.
+✅ Identifying job satisfaction trends
 
-Visualizing departmental and educational attrition patterns.
+✅ Visualizing departmental & educational attrition patterns
 
-📌 Key Features & KPIs
-The dashboard includes the following KPIs:
+📌 KEY FEATURES & KPIs
+OVERALL EMPLOYEES – Total workforce size
 
-Overall Employees – Total workforce size.
+ATTRITION COUNT – Employees who left
 
-Attrition Count – Number of employees who left.
+ATTRITION RATE (%) – Turnover percentage
 
-Attrition Rate (%) – Turnover percentage.
+ACTIVE EMPLOYEES – Currently working staff
 
-Active Employees – Currently working staff.
+AVERAGE AGE – Workforce age average
 
-Average Age – Workforce average age.
+📊 DASHBOARD VISUALS
+DEPARTMENT-WISE ATTRITION – Pie chart for R&D, Sales, HR
 
-📊 Visualizations in the Dashboard
-Department-Wise Attrition
+NO. OF EMPLOYEES BY AGE GROUP – Bar chart by age bands & gender
 
-Pie chart showing attrition distribution across R&D, Sales, and HR.
+JOB SATISFACTION RATINGS – Table of scores per job role
 
-Number of Employees by Age Group
+EDUCATION FIELD-WISE ATTRITION – Bar chart by educational background
 
-Bar chart showing employee distribution by age bands and gender.
+ATTRITION RATE BY GENDER & AGE GROUP – Donut charts for demographic trends
 
-Job Satisfaction Ratings
+🛠️ TOOLS & TECHNOLOGIES
+POWER BI – Dashboard creation & visualization
 
-Table showing satisfaction scores across job roles.
+MICROSOFT EXCEL – Data storage & preprocessing
 
-Education Field-Wise Attrition
+DAX – KPI calculations
 
-Bar chart analyzing attrition by educational background.
+📸 DASHBOARD PREVIEW
 
-Attrition Rate by Gender & Age Group
-
-Donut charts displaying demographic attrition trends.
+<img width="1142" height="654" alt="image" src="https://github.com/user-attachments/assets/50b7086b-8e76-4246-8ba5-4ac442a90219" />
 
 
- Tools & Technologies Used
-Power BI – For dashboard creation and data visualization.
 
-Microsoft Excel – For data storage and preprocessing.
+🚀 HOW TO USE
+Download the .pbix Power BI file
 
-DAX (Data Analysis Expressions) – For KPI calculations.
+Load the dataset HR Data.xlsx
 
-📸 Dashboard Preview
+Refresh visuals for updated KPIs
 
-<img width="1154" height="667" alt="image" src="https://github.com/user-attachments/assets/6645d8a0-2006-49a9-8d23-1764bed7aceb" />
+Use filters (Education, Age Group, etc.) to explore insights
 
-🚀 How to Use
-Download the Power BI file (.pbix) or open the dashboard in Power BI Desktop.
+📈 INSIGHTS & BENEFITS
+📌 Monitor workforce size & turnover
 
-Load the dataset (HR Data.xlsx).
+📌 Identify high-attrition departments & roles
 
-Refresh the visuals to view updated KPIs.
+📌 Track diversity & demographic patterns
 
-Interact with filters (Education Level, Age Group, etc.) to explore insights.
-
-📈 Insights & Benefits
-This dashboard helps HR teams to:
-
-Monitor workforce size and turnover.
-
-Identify departments and roles with high attrition.
-
-Track demographic patterns for diversity and inclusion.
-
-Improve employee engagement by addressing job satisfaction concerns.
-
-Implement targeted retention strategies.
+📌 Improve employee engagement & retention strategies
