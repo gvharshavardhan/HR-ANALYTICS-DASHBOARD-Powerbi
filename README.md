@@ -1,11 +1,13 @@
-📊 HR ANALYTICS KPI DASHBOARD
-📌 OVERVIEW
+## 📊 HR ANALYTICS KPI DASHBOARD
+
+## 📌 OVERVIEW
+
 The HR Analytics KPI Dashboard is an interactive analytics tool providing a comprehensive view of workforce metrics and trends.
 It helps HR departments make data-driven decisions by tracking employee count, attrition, demographics, and job satisfaction.
 
 Built using Power BI, powered by data from HR Data.xlsx.
 
-🛑 PROBLEM STATEMENT
+## 🛑 PROBLEM STATEMENT
 Many HR teams lack centralized KPIs to monitor workforce health.
 This project addresses the need for:
 
@@ -19,7 +21,7 @@ This project addresses the need for:
 
 ✅ Visualizing departmental & educational attrition patterns
 
-📌 KEY FEATURES & KPIs
+## 📌 KEY FEATURES & KPIs
 OVERALL EMPLOYEES – Total workforce size
 
 ATTRITION COUNT – Employees who left
@@ -30,7 +32,7 @@ ACTIVE EMPLOYEES – Currently working staff
 
 AVERAGE AGE – Workforce age average
 
-📊 DASHBOARD VISUALS
+## 📊 DASHBOARD VISUALS
 DEPARTMENT-WISE ATTRITION – Pie chart for R&D, Sales, HR
 
 NO. OF EMPLOYEES BY AGE GROUP – Bar chart by age bands & gender
@@ -41,20 +43,20 @@ EDUCATION FIELD-WISE ATTRITION – Bar chart by educational background
 
 ATTRITION RATE BY GENDER & AGE GROUP – Donut charts for demographic trends
 
-🛠️ TOOLS & TECHNOLOGIES
+## 🛠️ TOOLS & TECHNOLOGIES
 POWER BI – Dashboard creation & visualization
 
 MICROSOFT EXCEL – Data storage & preprocessing
 
 DAX – KPI calculations
 
-📸 DASHBOARD PREVIEW
+## 📸 DASHBOARD PREVIEW
 
 <img width="1142" height="654" alt="image" src="https://github.com/user-attachments/assets/50b7086b-8e76-4246-8ba5-4ac442a90219" />
 
 
 
-🚀 HOW TO USE
+## 🚀 HOW TO USE
 Download the .pbix Power BI file
 
 Load the dataset HR Data.xlsx
@@ -63,7 +65,7 @@ Refresh visuals for updated KPIs
 
 Use filters (Education, Age Group, etc.) to explore insights
 
-📈 INSIGHTS & BENEFITS
+## 📈 INSIGHTS & BENEFITS
 📌 Monitor workforce size & turnover
 
 📌 Identify high-attrition departments & roles
